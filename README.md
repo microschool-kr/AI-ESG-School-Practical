@@ -1,3 +1,3 @@
-# AI-ESG-School-Practical
+# AI ESG School 실습 파일
 
-This repo contains the code and files used in the videos. 
+This repository contains code files for the 2024 AI ESG School program.
